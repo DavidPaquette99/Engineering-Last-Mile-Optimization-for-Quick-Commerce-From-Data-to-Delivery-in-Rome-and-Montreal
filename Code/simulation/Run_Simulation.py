@@ -10,7 +10,7 @@ import copy
 import re
 
 ##### API KEY #####
-api_key = ### YOUR KEY ###
+api_key = "AIzaSyCVCIC2uaYM3cwEq7nLmJ4-B4gMGbTsde0"
 
 ##### CONFIGURATION #####
 NUM_COURIERS = 10
