@@ -53,7 +53,7 @@ Maps/ # GIS and visualization outputs
 - `Data/Montreal/` - Cleaned and engineered data for Montreal
 - `Data/Rome/` - Cleaned and engineered data for Rome
 - `Data/ANFIS/` - Trained ANFIS models, scalers, and transformers
-- `Maps/` - Optional: map visualizations, GIS outputs
+- `Maps/` - Map visualizations
 
 ---
 
