@@ -1,0 +1,559 @@
+city,restaurant,latitude,longitude
+Montreal,McDonald's,45.5018869,-73.56739189999999
+Montreal,Poulet Bronze,45.4951493,-73.5795709
+Montreal,Joe's Panini 24hrs (1404 Rue Drummond),45.4987129,-73.5748021
+Montreal,I Am Pho,45.4948197,-73.5798667
+Montreal,Wok Cafe,45.4932398,-73.5801484
+Montreal,Mexigrill Express,45.5133002,-73.57094289999999
+Montreal,Mandy's,45.5018869,-73.56739189999999
+Montreal,Poke Monster,45.5155634,-73.56398779999999
+Montreal,Green Spot,45.4809248,-73.5788376
+Montreal,Sumac,45.4794972,-73.58089439999999
+Montreal,Five Guys Burgers & Fries,45.5018869,-73.56739189999999
+Montreal,Notre-Boeuf-de-Grâce,45.5018869,-73.56739189999999
+Montreal,Subway,45.5018869,-73.56739189999999
+Montreal,Pizza Hut,45.5018869,-73.56739189999999
+Montreal,Thali Cuisine Indienne,45.4931154,-73.5806427
+Montreal,Restaurant PM,45.493737,-73.57963960000001
+Montreal,Desserts Etc,45.4931771,-73.5802808
+Montreal,El Pastaman,45.5130433,-73.55919329999999
+Montreal,Pitarifique,45.5177823,-73.581721
+Montreal,Boustan,45.5591887,-73.65838889999999
+Montreal,Campo Poulet Portugais,45.5005293,-73.574846
+Montreal,Uncle Tetsu's Japanese Cheesecake,45.5018869,-73.56739189999999
+Montreal,Pho Nguyen,45.4943649,-73.5804485
+Montreal,Kojax Restaurants,45.4706537,-73.4715484
+Montreal,Banh Mi 79,45.5108241,-73.56315110000001
+Montreal,Chateau Kebab,45.4958857,-73.5801558
+Montreal,Picks,45.49308,-73.580634
+Montreal,Omnivore,45.5018869,-73.56739189999999
+Montreal,Zoe & Presotea,45.4949184,-73.5814399
+Montreal,The Alley,45.4948234,-73.57765429999999
+Montreal,Poke Bento,45.4943865,-73.5804874
+Montreal,Tejano BBQ Burrito (St-Henri),45.4729916,-73.589085
+Montreal,Parma Cafe,45.5358363,-73.61648629999999
+Montreal,Snaxies,45.5190821,-73.5949658
+Montreal,Krispy Kreme,45.4992059,-73.628117
+Montreal,Burger King,45.5018869,-73.56739189999999
+Montreal,Che Churros & Empanadas,45.5176424,-73.5850095
+Montreal,Bombay Mahal,45.5247222,-73.6258333
+Montreal,PresoTea,45.5018869,-73.56739189999999
+Montreal,Sammi & Soupe Dumpling,45.49273549999999,-73.5807708
+Montreal,Schwartz's Deli,45.5163503,-73.5776401
+Montreal,Aunt Dai,45.49431939999999,-73.5803435
+Montreal,Curry Mahal,45.5155629,-73.5765026
+Montreal,Wienstein and Gavino's,45.4975111,-73.57674999999999
+Montreal,Grillado's Poulet Grille Peri Peri,45.5074589,-73.56407779999999
+Montreal,Restaurant Ethan,45.507239,-73.560352
+Montreal,Dairy Queen,45.5018869,-73.56739189999999
+Montreal,Spicebros,45.5018869,-73.56739189999999
+Montreal,Liquid Nutrition,45.5018869,-73.56739189999999
+Montreal,Bacaro Urban Pizzeria,45.5018869,-73.56739189999999
+Montreal,Raku,45.5183284,-73.58125129999999
+Montreal,Student Tasty Biryani,45.4957837,-73.5803559
+Montreal,La Foumagerie,45.4781115,-73.6041975
+Montreal,Cocktail Hawaii,45.495222,-73.5800032
+Montreal,K2+,45.4977355,-73.5773024
+Montreal,Ofish MTL,45.4753428,-73.62328470000001
+Montreal,Tsukuyomi,45.4960667,-73.5757711
+Montreal,Cuisine Szechuan,45.4963086,-73.5814676
+Montreal,Romados Rôtisserie et Pâtisserie,45.5018869,-73.56739189999999
+Montreal,Freshii,45.50060329999999,-73.5747312
+Montreal,Don Tacos,45.4931771,-73.5802808
+Montreal,Le Petit Sao (Vieux Montréal),45.5034096,-73.5580684
+Montreal,Nilufar (Rue Sainte-Catherine O),45.4926782,-73.5808824
+Montreal,Lafleur Restaurant (Montreal),45.5018869,-73.56739189999999
+Montreal,Le Taj,45.5009164,-73.5766481
+Montreal,Cote St-Luc BBQ,45.479516,-73.624371
+Montreal,Chez Hailar,45.496279,-73.581744
+Montreal,Restaurant Sesame Atwater,45.4795936,-73.575661
+Montreal,Dirty Dogs,45.5147364,-73.57410229999999
+Montreal,ÔFour,45.5087886,-73.5727043
+Montreal,Jano Grillades (poulet portugais),45.51621,-73.57728399999999
+Montreal,Chung Chun Kogo Coreen,45.5018869,-73.56739189999999
+Montreal,La Cantina,45.50022,-73.57578199999999
+Montreal,TSUJIRI Montreal,45.4973714,-73.5765406
+Montreal,Medusa Restaurant,45.4979333,-73.5731121
+Montreal,Quesada Burritos & Tacos,45.5018869,-73.56739189999999
+Montreal,Wok To Go,45.5045856,-73.5686077
+Montreal,Brigade Neapolitan Pizza,45.5018869,-73.56739189999999
+Montreal,Shuyi Tealicious,45.5076563,-73.5603589
+Montreal,Ben & Jerry's,45.5015608,-73.5709418
+Montreal,Restaurant Végo,45.5154587,-73.5646343
+Montreal,Ichifuku,45.4925795,-73.5809587
+Montreal,Cafe Cantina,45.4826694,-73.5622556
+Montreal,Restaurant La capital,45.5084429,-73.5610566
+Montreal,Vago,45.487247,-73.590662
+Montreal,Rockaberry,45.5018869,-73.56739189999999
+Montreal,Felix &Norton,45.5075936,-73.5508213
+Montreal,Koa Lua,45.4959246,-73.5767597
+Montreal,Tejano BBQ Burrito (Vieux Montréal),45.5074534,-73.5544177
+Montreal,Abrakababra,45.5178267,-73.5701725
+Montreal,Restaurant Burger Bros,45.5149665,-73.57461160000001
+Montreal,Shawarma Habibi,45.4964884,-73.5717725
+Montreal,Sansalizza,45.51047,-73.5761452
+Montreal,PhoBo,45.5018869,-73.56739189999999
+Montreal,Monteiro Grillades Portugaises,45.5906263,-73.6323297
+Montreal,Star Of India Restaurant,45.4935694,-73.5792988
+Montreal,La Maison Du Bulgogi,45.4911432,-73.5826778
+Montreal,Provision Cote des Neiges,45.4966292,-73.58230619999999
+Montreal,DonDonYa,45.49718319999999,-73.5772503
+Montreal,Okane Sushi Bar,45.4941346,-73.5640846
+Montreal,Ho Lee Chix,45.5096042,-73.5639072
+Montreal,Singh's Indian Cuisine (Boul Saint Laurent),45.5146621,-73.5745167
+Montreal,CoCo Fresh Tea & Juice,45.4967593,-73.5759404
+Montreal,Sophie Sucrée,45.5151335,-73.5757203
+Montreal,Ichiraku Kawaki,45.49480699999999,-73.55776759999999
+Montreal,Dunn's Famous Express,45.4946668,-73.65201139999999
+Montreal,3 Brasseurs,45.5018869,-73.56739189999999
+Montreal,QingHua Dumpling (Maisonneuve),45.4949188,-73.5803364
+Montreal,Restaurant Delicieux,45.4986403,-73.6269892
+Montreal,Banditos Burritos,45.5250783,-73.5596
+Montreal,La Popessa,45.5055392,-73.5586762
+Montreal,Deli Lesters,45.5018869,-73.56739189999999
+Montreal,Nouilles Zhonghua,45.50328469999999,-73.5749407
+Montreal,Hang Time Pizza,45.49753159999999,-73.5776961
+Montreal,Yifang Taiwan Fruit Tea,45.4960317,-73.5807086
+Montreal,Hazukido,45.4947621,-73.5785662
+Montreal,Wrap Kings,45.5018869,-73.56739189999999
+Montreal,Le Bay Ca Phe,45.5244958,-73.5957079
+Montreal,Petit Poisson Dumpling,45.493637,-73.579681
+Montreal,Abe & Mary's,45.4993124,-73.57753009999999
+Montreal,Lloydie's,45.5018869,-73.56739189999999
+Montreal,M4 Burrito (Rue St-Denis),45.51596019999999,-73.5649006
+Montreal,3 Amigos,45.4944244,-73.5789844
+Montreal,World Tea House 世界茶饮,45.5018869,-73.56739189999999
+Montreal,Bistro CO UT,45.5218748,-73.5702607
+Montreal,Pizza Saint Henri,45.4770135,-73.58699659999999
+Montreal,Vua,45.500133,-73.5652994
+Montreal,Restaurant Pho Maisonneuve,45.5174403,-73.5588836
+Montreal,Restaurant Santa Lucia,45.5018869,-73.56739189999999
+Montreal,Mclean's Pub,45.49954229999999,-73.57214069999999
+Montreal,Pho Bac 97 (Boul St-Laurent),45.5078836,-73.5598317
+Montreal,COQCOR,45.4948645,-73.5769071
+Montreal,Bowhead Pub,45.5119283,-73.56184990000001
+Montreal,Mysore La Express,45.54078,-73.591009
+Montreal,Eko Sushi,45.480269,-73.579506
+Montreal,Olivia's Authentic Chicken,45.4974183,-73.577794
+Montreal,Takara,45.5011514,-73.5733774
+Montreal,Coco Rico,45.5164701,-73.5777592
+Montreal,La Cage,45.5018869,-73.56739189999999
+Montreal,Nos Thes,45.4949423,-73.5782622
+Montreal,L'appétissant Sichuan,45.5015733,-73.5590174
+Montreal,Kinton Ramen Canada,45.5018869,-73.56739189999999
+Montreal,Arahova Souvlaki Saint Viateur,45.5226294,-73.60164139999999
+Montreal,YUMI,45.4963176,-73.578297
+Montreal,Restaurant Shi Tang,45.4952405,-73.5793928
+Montreal,Montreal Pool Room,45.5097066,-73.5631978
+Montreal,Hansang,45.5197108,-73.5967383
+Montreal,Sushi Inbox,45.5050541,-73.57159519999999
+Montreal,Bhandari Cuisine Indienne,45.49483499999999,-73.58003269999999
+Montreal,Bombay Mahal Express-,45.5247222,-73.6258333
+Montreal,Restaurant Chez Nick,45.4878389,-73.59136389999999
+Montreal,Mizan gourmet,45.493037,-73.5796579
+Montreal,Yin Ji,45.4535806,-73.46714419999999
+Montreal,Chef Lee,45.492845,-73.5807318
+Montreal,Pizza Pizza,45.5018869,-73.56739189999999
+Montreal,Restaurant Nippon (E 52nd St),45.5018869,-73.56739189999999
+Montreal,Centrale Bergham,45.5018869,-73.56739189999999
+Montreal,Chez Bong,45.5081382,-73.5596558
+Montreal,Royal Snacks,45.5115361,-73.56654449999999
+Montreal,New System Bar BQ,45.48065580000001,-73.5792397
+Montreal,Mr. Gao China Restaurant 高老庄,45.4958868,-73.5788417
+Montreal,Café casa de pastel,45.5168984,-73.58999709999999
+Montreal,Burger Bar,45.4980542,-73.5770671
+Montreal,Hot Star Large Fried Chicken 豪大大鸡排（Quebec),45.4925096,-73.58104329999999
+Montreal,I am Pho Côte-Des-Neiges,45.4974339,-73.623109
+Montreal,Bird Bar,45.4882301,-73.5684093
+Montreal,Brotelli Pasta Bar,45.498543,-73.5709984
+Montreal,Restaurant Chillax,45.5089613,-73.5729072
+Montreal,Cafe et Crêpe,45.50578609999999,-73.5672
+Montreal,Milton B,45.50918530000001,-73.5737272
+Montreal,Ugo Pizzeria,45.4972505,-73.5531649
+Montreal,Yifang Fruit Tea Chinatown Montreal,45.5069919,-73.560523
+Montreal,Columbus Café,45.5018869,-73.56739189999999
+Montreal,Asoo restaurant,45.4961841,-73.5818934
+Montreal,Chez Maxim Oriental,45.4916849,-73.4756862
+Montreal,Tipsy Cow,45.510434,-73.57502509999999
+Montreal,Resto Séoul,45.5225654,-73.5793621
+Montreal,Tampopo,45.526886,-73.579531
+Montreal,Mr. Puffs,45.5018869,-73.56739189999999
+Montreal,Kabiga Thé (St Catherine Ouest),45.4943248,-73.5803851
+Montreal,McGill pizza enr,45.5070854,-73.5761783
+Montreal,Da Giovanni,45.5115388,-73.5625699
+Montreal,Fisshu,45.5018869,-73.56739189999999
+Montreal,Station Berlin,45.4787887,-73.5690896
+Montreal,Second Pizza,45.4888835,-73.5862622
+Montreal,La Baguette Farcie (Rue Saint-Louis),45.5014378,-73.6815745
+Montreal,RESTAURANT ARTIGIANI,45.524973,-73.5847663
+Montreal,Restaurant Copoli 2,45.5204425,-73.586238
+Montreal,Lakshana's Chettinad Indian Restaurant,45.4931771,-73.5795189
+Montreal,Pizzeria Moretti,45.5026142,-73.5682612
+Montreal,Maynard,45.5133727,-73.5728474
+Montreal,Flat Belly Deli Halal,45.4977539,-73.5785052
+Montreal,Saint-Houblon Quartier Latin,45.51474,-73.5622101
+Montreal,Couche-Tard,45.5018869,-73.56739189999999
+Montreal,Madina Supermaket,45.5116604,-73.56679319999999
+Montreal,Cacao 70,45.6004362,-73.5625208
+Montreal,Kafe Kafta,45.5212858,-73.597023
+Montreal,Chatime Chinatown,45.5075206,-73.5602622
+Montreal,La Belle Et La Boeuf,45.5018869,-73.56739189999999
+Montreal,Good Reason,45.4847242,-73.5638519
+Montreal,Boom J`S Cuisine,45.47881479999999,-73.5586947
+Montreal,Roasters Rotisseries & Bar,45.5744228,-73.5479558
+Montreal,L'Academie (Crescent),45.498243,-73.578266
+Montreal,Escondite Vieux Montréal,45.505375,-73.553839
+Montreal,Chez-Devi,45.49754,-73.577043
+Montreal,Royal Biryani Restaurant,45.4959268,-73.57884349999999
+Montreal,Spicy Noodle Express,45.510347,-73.5750614
+Montreal,Rumi,45.5193123,-73.5983517
+Montreal,Restaurant Shanghai Grill (Rue Sainte-Catherine O),45.4877674,-73.5861333
+Montreal,Lotus Plus - Centre des mets chinois à Montréal,45.5273145,-73.58009299999999
+Montreal,Jardin Du Cerf,45.508857,-73.562068
+Montreal,Chez anna,45.517529,-73.58109809999999
+Montreal,Tim Hortons,45.5018869,-73.56739189999999
+Montreal,Casina,45.52092409999999,-73.5998767
+Montreal,Sho-Dan,45.5017117,-73.5746173
+Montreal,La Belle Corée,45.5226173,-73.5958145
+Montreal,Venice,45.5032017,-73.55638569999999
+Montreal,Make a Shake,45.5086519,-73.572295
+Montreal,Pizza City,45.5263389,-73.5591361
+Montreal,Pub Lord William,45.4869041,-73.56702969999999
+Montreal,Restaurant les Traditions Mediterranean,45.4962352,-73.58132540000001
+Montreal,Mai Xiang Yuan Dumpling,45.5082653,-73.560729
+Montreal,UNIBURGER,45.5018869,-73.56739189999999
+Montreal,Bistro Thanjai,45.4948665,-73.6374342
+Montreal,Nouilles Lacai 1966,45.51083149999999,-73.56320099999999
+Montreal,Green Gazoline Burger,45.4806207,-73.57879419999999
+Montreal,Resto Pho Cali,45.5522381,-73.7596747
+Montreal,Dagwoods,45.434787,-73.672755
+Montreal,Nagoya Sushi,45.5066566,-73.5705227
+Montreal,Bello,45.5007981,-73.5562005
+Montreal,Napoli Pizzeria,45.5008743,-73.57727349999999
+Montreal,Pizza Bella,45.4958313,-73.5789137
+Montreal,Restaurant Chez Chen,45.4958409,-73.58035559999999
+Montreal,Le Poke Station,45.5367083,-73.6027094
+Montreal,Vargas Steakhouse,45.5016451,-73.5673748
+Montreal,Sésame,45.5018869,-73.56739189999999
+Montreal,Paradise Biryani Pointe,45.4944268,-73.5798507
+Montreal,Olu Olu Poke,45.5091625,-73.5706965
+Montreal,Smile Restaurant,45.5256278,-73.5987806
+Montreal,Restaurant Krood,45.479368,-73.5720807
+Montreal,Oh Dumplings,45.5076585,-73.5603842
+Montreal,Fang Chi,45.479945,-73.587611
+Montreal,Sham,45.5346522,-73.6142395
+Montreal,Sweet Girl,45.5111504,-73.5630979
+Montreal,A&W Canada,45.5018869,-73.56739189999999
+Montreal,Restaurant Amir,45.5018869,-73.56739189999999
+Montreal,Baguette Brochette,45.5191565,-73.5728805
+Montreal,Chic Choc Burger,45.5078099,-73.5652013
+Montreal,Coco fresh tea and juice,45.4967593,-73.5759404
+Montreal,St-Hubert,45.6292359,-73.61992959999999
+Montreal,Golden Thali,45.50870750000001,-73.5622058
+Montreal,Yo Mama's Burgers,45.510319,-73.57500329999999
+Montreal,Le 5 Mai Déjeuners Mexicains Et Plus,45.5018869,-73.56739189999999
+Montreal,Pizza Dany,45.4977884,-73.574575
+Montreal,Les Délices Sirar,45.5204365,-73.5626166
+Montreal,Tzatziki Brothers,45.5092585,-73.57279539999999
+Montreal,Palme,45.5210222,-73.55400019999999
+Montreal,Thé Perlé,45.522446,-73.5801833
+Montreal,Mango Bay Resto Bar,45.4952177,-73.5762404
+Montreal,Jade,45.5569385,-73.5302316
+Montreal,Restaurant Fung Shing (Boul Saint-Laurent),45.5084469,-73.561151
+Montreal,Royal Sushi,45.5193387,-73.5947643
+Montreal,Phyllo Bar Melina's,45.523773,-73.605013
+Montreal,Cantine Emilia,45.521903,-73.5528265
+Montreal,The Dumpling Hut,45.5132871,-73.5725563
+Montreal,Restaurant La Toile,45.4829192,-73.5812782
+Montreal,Vargas Sushi Bar,45.5016451,-73.5673748
+Montreal,BABACOOL MTL,45.5038971,-73.557225
+Montreal,My Canh,45.5083597,-73.5609195
+Montreal,Nouilles Dragon,45.4875284,-73.5873916
+Montreal,Restaurant Zaika,45.5221345,-73.5776314
+Montreal,Hero Certified Burgers,45.4976642,-73.5781695
+Montreal,Le Gras Dur,45.5091786,-73.5629381
+Montreal,Benny & Co.,45.5018869,-73.56739189999999
+Montreal,Szechwan et Nouilles,45.5235686,-73.605795
+Montreal,Laurier BBQ,45.5230914,-73.601666
+Montreal,Delicieux,45.5080997,-73.5596951
+Montreal,Basha,45.5018869,-73.56739189999999
+Montreal,POKE ICI,45.4786776,-73.56871029999999
+Montreal,POKE FIJI,45.5018869,-73.56739189999999
+Montreal,Café - Pâtisserie - Traiteur le M,45.4954952,-73.5806084
+Montreal,Toro Rosso,45.520728,-73.5542722
+Montreal,Slice & Soda,45.50273,-73.55542
+Montreal,P23 dumplings- The Point,45.4787565,-73.5690924
+Montreal,Teochew Foodie,45.5201947,-73.574933
+Montreal,Rotisserie Mile End,45.5243975,-73.59986769999999
+Montreal,Roi du taco express,45.5255887,-73.5992921
+Montreal,Trattoria Trestevere,45.4969811,-73.5748906
+Montreal,Restaurant Tivoli Bardo,45.4954572,-73.61990310000002
+Montreal,College Cafe,45.4984435,-73.5746763
+Montreal,Marché Sushi Poke,45.5175782,-73.5787319
+Montreal,Jugo Juice,45.5018869,-73.56739189999999
+Montreal,Valentine,45.5018869,-73.56739189999999
+Montreal,Bubble Tea Shop,45.5018869,-73.56739189999999
+Montreal,Le Petit Vibe,45.5096042,-73.5639072
+Montreal,La Scampia,45.5083421,-73.5522501
+Montreal,La Fabrique de Bagel Montreal,45.5020089,-73.5605637
+Montreal,G.O.A.T. Grill,45.47495,-73.58658810000001
+Montreal,Poutine Lafleur (3665 Rue Wellington),45.46726880000001,-73.5667323
+Montreal,Depanneur Snackzilla,45.5282929,-73.5599482
+Montreal,Junior,45.4866148,-73.56947790000001
+Montreal,La Morelia Restaurant,45.5209489,-73.5540441
+Montreal,Le Gout Du Vietnam,45.5204751,-73.5545183
+Montreal,"Eurovap - Munchies, Snacks & Sodas Exotiques",45.53375399999999,-73.561712
+Montreal,Shushu Bar a Poke + Sushi,45.4835777,-73.5736531
+Montreal,Copper Branch,45.5018869,-73.56739189999999
+Montreal,Sugar Marmalade,45.4959048,-73.5755065
+Montreal,La Marinara Express,45.5203438,-73.5909048
+Montreal,Restaurant Asha,45.5092682,-73.5735019
+Montreal,Steak Frites,45.5184165,-73.5966115
+Montreal,Lattuca Barbecue,45.5049453,-73.5535082
+Montreal,Fiorella,45.5016893,-73.5736656
+Montreal,Grillades Torino,45.5018869,-73.56739189999999
+Montreal,Second Cup,45.5018869,-73.56739189999999
+Montreal,La Diperie,45.5018869,-73.56739189999999
+Montreal,Hooters,45.4977064,-73.5763688
+Montreal,Küto Comptoir à Tartares,45.5742205,-73.5924065
+Montreal,The Cheesecake Factory Bakery at La Diperie,45.5018869,-73.56739189999999
+Montreal,Van Houtte,45.5717459,-73.6090105
+Montreal,Rocky Mtn Chocolate,45.5029625,-73.57144149999999
+Montreal,Wally's Crème Glacée Végane,45.5240655,-73.5730452
+Montreal,Main Xiang Yuan,45.5018869,-73.56739189999999
+Montreal,Chop Crazy Gare Centrale,45.4999304,-73.5665831
+Montreal,Carre Confiseries (Peel St),45.5003956,-73.573469
+Montreal,Rhum Cafe,45.6210384,-73.5888533
+Montreal,Le Vieux Dublin Pub & Restaurant,45.5030083,-73.56864639999999
+Montreal,Ting Xang Dumpling,45.5018869,-73.56739189999999
+Montreal,Saké Grillades,45.5233892,-73.59323049999999
+Montreal,Chicha Restaurant,45.4947706,-73.5800642
+Montreal,Restaurant Pho Mont Royal,45.5311406,-73.57645450000001
+Montreal,Eggspectation,45.5018869,-73.56739189999999
+Montreal,Le Trou inc.,45.5473569,-73.575499
+Montreal,Just Pressed,45.499567,-73.57379999999999
+Montreal,Les Glaceurs,45.5277076,-73.57602349999999
+Montreal,La Fabrique de Bagel,45.5018869,-73.56739189999999
+Montreal,Tommy Cafe,45.5038209,-73.5573724
+Montreal,Pamplemousse Cafe,45.521746,-73.562227
+Montreal,Boba Boba,45.4948819,-73.558635
+Montreal,Restaurant Le Boucan,45.48731249999999,-73.5689711
+Montreal,Universel,45.56574320000001,-73.5531784
+Montreal,Meet Fresh,45.4938204,-73.57964369999999
+Montreal,Presse Café,45.5018869,-73.56739189999999
+Montreal,Restaurant Mr.DAKGALBI,45.4922042,-73.5831099
+Montreal,BIS,45.4977498,-73.574221
+Montreal,Brioche Dorée,45.5018869,-73.56739189999999
+Montreal,Le Vieux St-Laurent,45.5168261,-73.5787562
+Montreal,Burger Fiancé,45.50140700000001,-73.5594186
+Montreal,Au Pain Doré,45.5018869,-73.56739189999999
+Montreal,La Fabrique de Bagel - Westmount,45.4875857,-73.5862882
+Montreal,Cafe Vasco Da Gama,45.5006345,-73.5745293
+Montreal,Noobox,45.50546110000001,-73.55936369999999
+Montreal,Livia (1468 Peel St),45.5005392,-73.5743181
+Montreal,L2 Lounge (Rue De La Gauchetiere O),45.5073406,-73.5607436
+Montreal,Julian's Comptoir Gourmand,45.5188111,-73.5877137
+Montreal,Les Moulins La Fayette,45.5313643,-73.576208
+Montreal,Sushiyo,45.5049396,-73.57299259999999
+Montreal,The Bier Markt,45.4973799,-73.5720465
+Montreal,Al-Taib Express,45.4957237,-73.5777969
+Montreal,Avesta Restaurant,45.491565,-73.5825278
+Montreal,Les Brunchs de Mathieu,45.6158734,-73.5489668
+Montreal,Allo! Mon Coco,45.5018869,-73.56739189999999
+Montreal,Cachitos,45.5098186,-73.56403949999999
+Montreal,Pizza Soleil,45.5049917,-73.5714533
+Montreal,Spirulina,45.499567,-73.57379999999999
+Montreal,Resto Café Oxford,45.47114879999999,-73.6143077
+Montreal,Farrouj Express,45.5102521,-73.5750175
+Montreal,Sushi Ste-catherine,45.4938163,-73.5794832
+Montreal,Snatch Restaurant,45.5215338,-73.5890893
+Montreal,Barley,45.48249999999999,-73.57611109999999
+Montreal,Belle province familiale,45.4455412,-73.74194949999999
+Montreal,Sushiman,45.5018869,-73.56739189999999
+Montreal,5Senses,45.5067379,-73.56638699999999
+Montreal,Kame Snack-Bar,45.5181799,-73.5561349
+Montreal,Les Grillades Du Cèdre,45.4957585,-73.5539173
+Montreal,Pizzeria Heirloom,45.5493972,-73.5420583
+Montreal,Cafe Aunja,45.4977417,-73.58028329999999
+Montreal,Peel Pub,45.4994033,-73.57194249999999
+Montreal,Enoteca Monza Pizzeria Moderna,45.5017873,-73.5703278
+Montreal,Buffalo Bill Wings,45.5018869,-73.56739189999999
+Montreal,Metro Cellular / SIM Cards,45.510127,-73.554734
+Montreal,La Fabrique,45.5181712,-73.56956670000001
+Montreal,Breizh Cafe - Crêperie Bretonne,45.516789,-73.578721
+Montreal,Cora,45.5018869,-73.56739189999999
+Montreal,Atti Express,45.5022718,-73.5697789
+Montreal,En Couleur,45.51918819999999,-73.55742339999999
+Montreal,Ispahan,45.4831986,-73.56184429999999
+Montreal,Ben & Florentine,45.5018869,-73.56739189999999
+Montreal,Mister Steer Restaurant,45.49873849999999,-73.5740237
+Montreal,Chez Lin (Vent Doux),45.43395200000001,-73.6287555
+Montreal,Leche Desserts,45.4741469,-73.59223709999999
+Montreal,Patisserie De La Gare,45.465928,-73.5665906
+Montreal,Capitaine Sandwich,45.5183185,-73.5783183
+Montreal,Pub Mc Carold's,45.4967464,-73.6237182
+Montreal,Dépanneur Tina plus,45.5224508,-73.5617242
+Montreal,Philinos,45.5181835,-73.5929208
+Montreal,Pizzeria Geppetto,45.4516354,-73.5726136
+Montreal,Cafétéria La Mosaïque,45.5066628,-73.57586119999999
+Montreal,La Boite Verte,45.49963899999999,-73.563631
+Montreal,la perle bleue,45.49341,-73.57372269999999
+Montreal,042 Afro Lounge,45.4957122,-73.575166
+Montreal,Ragù ( Le Central ),45.5093056,-73.562932
+Montreal,La Baguette Farcie,45.5329984,-73.56733
+Montreal,Resto-Bar Le Chevalier Blanc,45.4619102,-73.57170959999999
+Montreal,Bernice,45.4697465,-73.59256049999999
+Montreal,Van Winkle's Sandwiches and Cafe,45.5018869,-73.56739189999999
+Montreal,Chez Ta Mère,45.5242606,-73.5946167
+Montreal,Café Mimosa,45.5133458,-73.57102619999999
+Montreal,Kim Chi Korean Delight,45.5018869,-73.56739189999999
+Montreal,Pok Pok,45.5075084,-73.5644126
+Montreal,Fresh Mint,45.5096585,-73.573697
+Montreal,Takumi Sushi,45.517186,-73.5675984
+Montreal,La Petite Marche,45.5267457,-73.5886482
+Montreal,Restaurant District 4,45.5018869,-73.56739189999999
+Montreal,Restaurant l'Anecdote,45.5237157,-73.576651
+Montreal,Masala indian cuisine,45.5018869,-73.56739189999999
+Montreal,Deli Grill,45.50093409999999,-73.5737683
+Montreal,Pizzéria Montréal New York,45.5104973,-73.5630986
+Montreal,Tropikàl,45.4803592,-73.579076
+Montreal,Muffin Plus,45.5018869,-73.56739189999999
+Montreal,Quiznos,45.5018869,-73.56739189999999
+Montreal,Time,45.5018869,-73.56739189999999
+Montreal,Casa Kaizen by Sushi MoMo,45.5250677,-73.5849511
+Montreal,Le Warehouse Crescent St,45.4975187,-73.57689859999999
+Montreal,Cacao 70 Eatery,45.5018869,-73.56739189999999
+Montreal,Lola Rosa,45.5068838,-73.5662586
+Montreal,OPIANO,45.5018168,-73.57693259999999
+Montreal,RESTAURANT BIIRU,45.5050012,-73.5686458
+Montreal,Nouveau Palais,45.523943,-73.605494
+Montreal,LE RED TIGER Pub Vietnamien / Vietnamese Pub,45.51920459999999,-73.55783389999999
+Montreal,Hello 123,45.4797894,-73.58038599999999
+Montreal,Crescent Sushi,45.4977264,-73.57652089999999
+Montreal,Poke Star,45.5056763,-73.570876
+Montreal,Le Coq Frit,45.4935731,-73.5791285
+Montreal,Chatime,45.5242858,-73.7134681
+Montreal,Mei Restaurant,45.4962457,-73.5774404
+Montreal,Sandwicherie Ka'ek,45.4965941,-73.579028
+Montreal,Formosa (Rue Cathcart),45.5022718,-73.5697789
+Montreal,Soupebol Nouillerie,45.50411390000001,-73.5683944
+Montreal,Kampai Garden (Sainte-Catherine St W),45.493668,-73.578694
+Montreal,Kalbi,45.5080611,-73.5595872
+Montreal,Dandy,45.5033143,-73.5586126
+Montreal,Pizza Madona,45.5306819,-73.5550456
+Montreal,Mon Ami,45.5018869,-73.56739189999999
+Montreal,Le Belle Province (St. Catherine St E),45.5460184,-73.53736359999999
+Montreal,L'avenue,45.47956749999999,-73.5808021
+Montreal,Archway bar santé,45.59679999999999,-73.5344259
+Montreal,Poke Mahalo,45.533721,-73.5739859
+Montreal,Mono cafe,45.4981866,-73.57840999999999
+Montreal,Maiolo Montreal,45.466986,-73.6464361
+Montreal,Arabesque Resto Bar,45.4949135,-73.5769172
+Montreal,Restaurant Le Calvaire,45.49802709999999,-73.57316829999999
+Montreal,Northwestern Chinese Cuisine (白家老汤),45.4933857,-73.5793959
+Montreal,Thaiphon,45.5051095,-73.57143909999999
+Montreal,Gyu-Kaku Japanese BBQ,45.4969778,-73.5750797
+Montreal,Falafel Avenue,45.5042331,-73.5724714
+Montreal,Bistro 1242 bar sportif,45.4982263,-73.5736821
+Montreal,Siam Centre Ville,45.4966023,-73.5728652
+Montreal,Omnivore PVM,45.5009951,-73.5689364
+Montreal,Chifa,45.5045089,-73.5636596
+Montreal,Il Milanese,45.4800464,-73.5799558
+Montreal,Dépanneur After Hours,45.4929014,-73.5800948
+Montreal,Saladesalad,45.5018869,-73.56739189999999
+Montreal,Greenspot 1947,45.4809248,-73.5788376
+Montreal,Déjeunette,45.5028466,-73.5752364
+Montreal,Snax,45.5018869,-73.56739189999999
+Montreal,Osteria mkt,45.5038213,-73.5707385
+Montreal,Motel Mexico,45.5018869,-73.56739189999999
+Montreal,SHAY Express,45.4913829,-73.5658059
+Montreal,Cafe Pave (Rue Notre-Dame O),45.503265,-73.5580942
+Montreal,M4 Burritos Concordia,45.4960622,-73.5787922
+Montreal,Crossbar Restaurant,45.4955181,-73.5731093
+Montreal,Maman,45.4905306,-73.56665
+Montreal,Tiramisu,45.5078904,-73.559039
+Montreal,Tiradito,45.504513,-73.56342719999999
+Montreal,Ayla,45.4884779,-73.566762
+Montreal,Le Comptoir Sushi et Prêt-à-Manger,45.506612,-73.554993
+Montreal,Barroco,45.50140409999999,-73.5559468
+Montreal,Au Festin de Babette,45.5211722,-73.57642779999999
+Montreal,Maquis yasolo,45.4790187,-73.5824339
+Montreal,Bazaar Foods,45.5382606,-73.6595779
+Montreal,Burgers Galore,45.5001134,-73.5665231
+Montreal,Green Cafe,45.5025051,-73.5717244
+Montreal,MB2GO (1050 Beaver Hall),45.50197180000001,-73.5648776
+Montreal,Circos Montreal,45.5076987,-73.5711287
+Montreal,Ristorante Aria,45.5010146,-73.5644801
+Montreal,Ramen 9000,45.5018869,-73.56739189999999
+Montreal,Restaurant Keung Kee,45.507253,-73.560407
+Montreal,Monami Express Condordia,45.4948363,-73.5779128
+Montreal,saint döner sandwichs,45.5214733,-73.5780269
+Montreal,La Maison Oflore,45.521974,-73.57488099999999
+Montreal,Dynastie,45.5073778,-73.5599083
+Montreal,Stonefire Pizza,45.5018869,-73.56739189999999
+Montreal,Tacos Tin Tan,45.5193737,-73.5732574
+Montreal,Montréal kebab,45.50719,-73.5525049
+Montreal,CafeDemix,45.5018869,-73.56739189999999
+Montreal,Columbus Café & Co,45.5018869,-73.56739189999999
+Montreal,Darlington Boire & Manger,45.5053277,-73.56423010000002
+Montreal,Restaurant La Palma,45.5059808,-73.5638436
+Montreal,Bulma Bar,45.50018379999999,-73.5598763
+Montreal,Arriba Burrito,45.5148362,-73.5625513
+Montreal,Delices Place,45.5018869,-73.56739189999999
+Montreal,Arabica Lounge,45.495378,-73.57579199999999
+Montreal,Kupfert & Kim,45.5018869,-73.56739189999999
+Montreal,Le P'tit Plateau (Marie-Anne St ),45.5222142,-73.5810267
+Montreal,Nopalito by Sushi MoMo,45.5250677,-73.5849511
+Montreal,Injoy Puff Corner,45.49251109999999,-73.5802937
+Montreal,B&M Plateau (Rue Saint Viateur O),45.5018869,-73.56739189999999
+Montreal,Yokato Yokabai (4185 Drolet Street),45.5212262,-73.5785399
+Montreal,Depanneur Provi-Soir,45.5533531,-73.5800485
+Montreal,Place Deschamps,45.5450266,-73.6952745
+Montreal,Quattro Piatti,45.502018,-73.560006
+Montreal,Gourmet Bagels And Subs,45.5018869,-73.56739189999999
+Montreal,La mignonette,45.5092681,-73.5631729
+Montreal,Bourak Se7en's,45.5018869,-73.56739189999999
+Montreal,Terra Verde,45.5048813,-73.5602771
+Montreal,Restaurant Ong Ca Can,45.51083149999999,-73.56320099999999
+Montreal,Mr Smoke Meat Inc,45.5222065,-73.6070437
+Montreal,Crux Comptoir,45.4465066,-73.4370478
+Montreal,Kamuy 1485 Jeanne Mance,45.5079134,-73.5673078
+Montreal,Monsieur Restaurant Bar,45.50469589999999,-73.5638172
+Montreal,Cafe Saint-Henri,45.500989,-73.56441099999999
+Montreal,Balance Torrefacteur,45.4631702,-73.5779529
+Montreal,Magasin Privé,45.4996912,-73.57301100000001
+Montreal,Dadashi,45.4929362,-73.579914
+Montreal,Kamé Snack Bar Hawaien,45.50961650000001,-73.5638433
+Montreal,Mon Shing,45.5070842,-73.5606196
+Montreal,SeaSalt & Ceviche Bar,45.5036111,-73.5541667
+Montreal,La Petite Maison,45.4972869,-73.57724139999999
+Montreal,Kali Bistro,45.4884712,-73.5683474
+Montreal,Baratartar,45.49895739999999,-73.55396499999999
+Montreal,Aqua E Farina,45.4746128,-73.6233243
+Montreal,Marche Des Eclusiers (Rue De La Commune O),45.4985532,-73.55210699999999
+Montreal,Cantine Burgz,45.47896189999999,-73.5699151
+Montreal,Pho Cali,45.5522381,-73.7596747
+Montreal,Restaurant Tapas Pintxo (Rue Sainte-Catherine O),45.5096747,-73.5637794
+Montreal,Deno's Restaurant,45.512725,-73.55786839999999
+Montreal,Pannizza (1980 Sherbrooke O),45.4936841,-73.5835799
+Montreal,Zizipop,45.5209027,-73.5541317
+Montreal,Dog House,45.51432579999999,-73.572431
+Montreal,La Vieille Europe,45.515968,-73.5767709
+Montreal,One Babo,45.5052567,-73.55338429999999
+Montreal,Nmenan's Bazaar,45.5018869,-73.56739189999999
+Montreal,Le Parva Bistro,45.5157941,-73.5625672
+Montreal,La Voute,45.5022567,-73.559135
+Montreal,Micro Espresso Café,45.50153780000001,-73.5567052
+Montreal,Station Vitamine,45.50184060000001,-73.57018939999999
+Montreal,Café Nocturne,45.513585,-73.5729521
+Montreal,Beauty's Restaurant,45.5191028,-73.5874975
+Montreal,Euro-Market,45.4855157,-73.62716549999999
+Montreal,Branzino (50 Boulevard Rene-Levesque O),45.5018869,-73.56739189999999
+Montreal,Maison Kim Fung,45.461212,-73.4640939
+Montreal,Mehadrin Deli,45.5231016,-73.6062093
+Montreal,Le Club Burgers - Sandwiches - Wraps,45.5323066,-73.5811157
+Montreal,Y-Fried Chicken,45.5018869,-73.56739189999999
+Montreal,Holiday's Resto and Snack,45.5018869,-73.56739189999999
+Montreal,trattoria gio,45.5079193,-73.5537918
+Montreal,Rotisseries Au Coq,45.5876577,-73.53992579999999
+Montreal,Patati Patata Friterie De Luxe,45.5180533,-73.5814759
