@@ -78,6 +78,14 @@ Major dependencies (see `requirements.txt`):
 
 ---
 
+## Thesis Report
+
+The full thesis report is available here:  
+[David Paquette Master’s Thesis (PDF)](./David_Paquette_789331_Thesis.pdf)
+
+
+---
+
 ## Citation
 
 If you use this code or data, please cite:
