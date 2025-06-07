@@ -86,12 +86,6 @@ If you use this code or data, please cite:
 
 ---
 
-## License
-
-MIT License (or specify another if you prefer)
-
----
-
 ## Contact
 
 Questions, feedback, or collaboration proposals welcome!  
